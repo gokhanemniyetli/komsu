@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Komsu</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">QMnrkTuSudSZVj943J4PrngjbA9YyMRglFjZg</string>
+    <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true">ALWAYS_SEND</string>
+    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true">ALWAYS_SEND</string>
+    <string name="facebook_app_id">355664775360513</string>
+</resources>

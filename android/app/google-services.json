@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "951563317761",
+    "firebase_url": "https://komsu-b6da3.firebaseio.com",
+    "project_id": "komsu-b6da3",
+    "storage_bucket": "komsu-b6da3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951563317761:android:777e4ea22fd06187648600",
+        "android_client_info": {
+          "package_name": "com.komsu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951563317761-ch7ibf3qbpp6o1k2ckngmkahnncquj2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlIcQnSPxrQ0F8U7Uwux_FSqEwcAhtUX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951563317761-ch7ibf3qbpp6o1k2ckngmkahnncquj2r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "951563317761-mppj4i41715fmo92b4r3tf35c1u3o55q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.Komsu",
+                "app_store_id": "1507281326"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-2031837306819302~1643367239"
+    }
+  ],
+  "configuration_version": "1"
+}
